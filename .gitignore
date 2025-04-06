@@ -1,32 +1,17 @@
-# Prerequisites
+*.bin
+*.elf
+*.hex
+*.map
+*.o
 *.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*.tmp
+*.swp
 
-# Precompiled Headers
-*.gch
-*.pch
+.DS_Store
+Thumbs.db
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+.vscode/
+.idea/
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+libraries/
